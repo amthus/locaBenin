@@ -131,7 +131,7 @@ const RegisterPage = () => {
               <Label htmlFor="phone">Téléphone</Label>
               <div className="relative">
                 <Phone className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-                <Input id="phone" placeholder="+229 97 00 00 00" className="pl-10 h-12" value={phone} onChange={(e) => setPhone(e.target.value)} />
+                <Input id="phone" placeholder="+229 01 46 87 91 42 " className="pl-10 h-12" value={phone} onChange={(e) => setPhone(e.target.value)} />
               </div>
             </div>
 

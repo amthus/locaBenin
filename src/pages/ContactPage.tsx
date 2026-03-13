@@ -26,7 +26,7 @@ const ContactPage = () => {
             <div className="space-y-6">
               {[
                 { icon: MapPin, title: "Adresse", lines: ["Quartier Ganhi", "Cotonou, Bénin"] },
-                { icon: Phone, title: "Téléphone", lines: ["+229 97 00 00 00", "+229 96 00 00 00"] },
+                { icon: Phone, title: "Téléphone", lines: ["+229 01 46 87 91 42 ", "+229 96 00 00 00"] },
                 { icon: Mail, title: "Email", lines: ["contact@locabenin.com", "support@locabenin.com"] },
                 { icon: Clock, title: "Horaires", lines: ["Lun - Ven : 8h - 18h", "Sam : 9h - 13h"] },
               ].map((c) => (

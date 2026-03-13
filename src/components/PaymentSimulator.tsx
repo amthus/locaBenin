@@ -80,7 +80,7 @@ const PaymentSimulator = ({ open, onClose, amount, label }: PaymentSimulatorProp
             <div className="space-y-2">
               <Label>Numéro de téléphone</Label>
               <Input
-                placeholder="+229 97 00 00 00"
+                placeholder="+229 01 46 87 91 42 "
                 value={phone}
                 onChange={(e) => setPhone(e.target.value)}
                 className="h-12"

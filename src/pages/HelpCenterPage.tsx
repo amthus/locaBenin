@@ -130,7 +130,7 @@ const HelpCenterPage = () => {
             <p className="text-muted-foreground mb-6">Notre équipe est à votre disposition pour vous aider.</p>
             <div className="flex gap-3 justify-center">
               <Button asChild><Link to="/contact">Nous contacter</Link></Button>
-              <Button variant="outline" className="gap-2"><Phone className="h-4 w-4" /> +229 97 00 00 00</Button>
+              <Button variant="outline" className="gap-2"><Phone className="h-4 w-4" /> +229 01 46 87 91 42 </Button>
             </div>
           </div>
         </div>

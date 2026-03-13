@@ -40,7 +40,7 @@ const Footer = () => {
               <li><Link to="/a-propos" className="hover:opacity-100 transition-opacity">{t.nav.about}</Link></li>
               <li><Link to="/contact" className="hover:opacity-100 transition-opacity">Contact</Link></li>
               <li>contact@locabenin.com</li>
-              <li>+229 97 00 00 00</li>
+              <li>+229 01 46 87 91 42 </li>
             </ul>
           </div>
         </div>
